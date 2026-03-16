@@ -27,4 +27,3 @@ define(["require", "exports"], function (require, exports) {
     let noHaceNadaTampoco;
     noHaceNadaTampoco = noHaceNada;
 });
-//# sourceMappingURL=ejercicio%202.js.map

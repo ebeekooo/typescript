@@ -19,4 +19,3 @@ define(["require", "exports"], function (require, exports) {
         console.log((_a = ladybug.getName) === null || _a === void 0 ? void 0 : _a.call(ladybug));
     })();
 });
-//# sourceMappingURL=ejercicio-Objetos.js.map

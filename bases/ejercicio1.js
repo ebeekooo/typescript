@@ -36,4 +36,3 @@ define(["require", "exports"], function (require, exports) {
         console.log(largoDelPoder);
     })();
 });
-//# sourceMappingURL=ejercicio1.js.map

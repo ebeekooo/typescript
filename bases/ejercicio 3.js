@@ -42,4 +42,3 @@ define(["require", "exports"], function (require, exports) {
     mystique = charles;
     mystique = apocalipsis;
 });
-//# sourceMappingURL=ejercicio%203.js.map
